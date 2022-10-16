@@ -80,9 +80,9 @@ RTL realization
 ~~~
 # Output:
 ## Logic symbol & Truthtable:
-![img]()
+![img](https://github.com/vijay21500269/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/main/de1-1.png)
 ## RTL realization:
-![img]()
+![img](https://github.com/vijay21500269/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/main/de2-2.png)
 
 # Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
